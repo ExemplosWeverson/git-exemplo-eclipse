@@ -5,5 +5,6 @@ public class ExemploGit {
 		
 		System.out.println("E ai, git");
 		//Alterado do github
+		//Alterado do eclipse
 	}
 }
